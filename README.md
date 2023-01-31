@@ -1,2 +1,2 @@
 # Ek-reshetnikova.github.io
-Сайт-визитка
+Сайт-визитка на простом HTML + CSS + JS 
